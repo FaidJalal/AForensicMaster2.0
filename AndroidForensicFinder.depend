@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1539427773 source:/root/Ahtisham/AndroidForensicFinder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540320931 source:/run/media/root/TOSHIBA03/AndroidForensicFinder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540724104 source:/root/Documents/AndroidForensicFinder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540746226 source:/root/Music/FORENSIC_MASTERv1.1/AndroidForensicFinder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1544010319 source:/root/Documents/FORENSIC_MASTERv1.1/AndroidForensicFinder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,2 @@
+<package name="com.flipdrive" codePath="/data/app/com.flipdrive-1.apk" nativeLibraryPath="/data/app-lib/com.flipdrive-1" flags="5815876" ft="16696778438" it="1669677b311" ut="1669677b311" version="100100085" userId="10152" insta
+<package name="com.flipdrive" codePath="/data/app/com.flipdrive-1.apk" nativeLibraryPath="/data/app-lib/com.flipdrive-1" flags="5815876" ft="16696778438" it="1669677b311" ut="1669677b311" version="100100085" userId="10152" insta
